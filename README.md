@@ -1,1 +1,1 @@
-[![Gitty Score](https://gitty-code.com/api/badge/${github_id}.png)](https://gitty-code.com/user/${github_id})
+[![Gitty Score](https://gitty-code.com/api/badge/kazu12222.png)](https://gitty-code.com/user/kazu12222)
